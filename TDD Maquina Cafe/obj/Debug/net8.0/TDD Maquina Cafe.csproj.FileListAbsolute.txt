@@ -1,0 +1,15 @@
+C:\Users\Samuel\OneDrive\ITLA.EDU.DO\Introduccion a la Ing de Software\TDD Maquina Cafe\bin\Debug\net8.0\TDD Maquina Cafe.exe
+C:\Users\Samuel\OneDrive\ITLA.EDU.DO\Introduccion a la Ing de Software\TDD Maquina Cafe\bin\Debug\net8.0\TDD Maquina Cafe.deps.json
+C:\Users\Samuel\OneDrive\ITLA.EDU.DO\Introduccion a la Ing de Software\TDD Maquina Cafe\bin\Debug\net8.0\TDD Maquina Cafe.runtimeconfig.json
+C:\Users\Samuel\OneDrive\ITLA.EDU.DO\Introduccion a la Ing de Software\TDD Maquina Cafe\bin\Debug\net8.0\TDD Maquina Cafe.dll
+C:\Users\Samuel\OneDrive\ITLA.EDU.DO\Introduccion a la Ing de Software\TDD Maquina Cafe\bin\Debug\net8.0\TDD Maquina Cafe.pdb
+C:\Users\Samuel\OneDrive\ITLA.EDU.DO\Introduccion a la Ing de Software\TDD Maquina Cafe\obj\Debug\net8.0\TDD Maquina Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\OneDrive\ITLA.EDU.DO\Introduccion a la Ing de Software\TDD Maquina Cafe\obj\Debug\net8.0\TDD Maquina Cafe.AssemblyInfoInputs.cache
+C:\Users\Samuel\OneDrive\ITLA.EDU.DO\Introduccion a la Ing de Software\TDD Maquina Cafe\obj\Debug\net8.0\TDD Maquina Cafe.AssemblyInfo.cs
+C:\Users\Samuel\OneDrive\ITLA.EDU.DO\Introduccion a la Ing de Software\TDD Maquina Cafe\obj\Debug\net8.0\TDD Maquina Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\OneDrive\ITLA.EDU.DO\Introduccion a la Ing de Software\TDD Maquina Cafe\obj\Debug\net8.0\TDD Maquina Cafe.sourcelink.json
+C:\Users\Samuel\OneDrive\ITLA.EDU.DO\Introduccion a la Ing de Software\TDD Maquina Cafe\obj\Debug\net8.0\TDD Maquina Cafe.dll
+C:\Users\Samuel\OneDrive\ITLA.EDU.DO\Introduccion a la Ing de Software\TDD Maquina Cafe\obj\Debug\net8.0\refint\TDD Maquina Cafe.dll
+C:\Users\Samuel\OneDrive\ITLA.EDU.DO\Introduccion a la Ing de Software\TDD Maquina Cafe\obj\Debug\net8.0\TDD Maquina Cafe.pdb
+C:\Users\Samuel\OneDrive\ITLA.EDU.DO\Introduccion a la Ing de Software\TDD Maquina Cafe\obj\Debug\net8.0\TDD Maquina Cafe.genruntimeconfig.cache
+C:\Users\Samuel\OneDrive\ITLA.EDU.DO\Introduccion a la Ing de Software\TDD Maquina Cafe\obj\Debug\net8.0\ref\TDD Maquina Cafe.dll
